@@ -1,4 +1,3 @@
-```md id="sdn3rt"
 # AYULEAF VISION: AI-Based System for Ayurvedic Plant Disease Detection and Analysis
 
 ## Overview
@@ -39,10 +38,11 @@ This project addresses these limitations through an integrated AI-driven diagnos
 - 13,460 leaf images
 - 18 disease and healthy classification categories
 - 4 Ayurvedic medicinal plant species
-- Dataset split:
-  - 70% Training
-  - 20% Validation
-  - 10% Testing
+
+Dataset split:
+- 70% Training
+- 20% Validation
+- 10% Testing
 
 ---
 
@@ -142,4 +142,3 @@ AYULEAF VISION demonstrates how deep learning, explainable AI, and computer visi
 - Deploy the system as a scalable cloud-based diagnostic platform
 - Extend support for additional medicinal plant species and diseases
 - Integrate real-time mobile and IoT-based agricultural monitoring systems
-```
